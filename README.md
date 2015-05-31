@@ -1,6 +1,7 @@
 # tealet
+=======
 
-A website written with Noir and ClojureScript.
+A ClojureScript wrapper for leaflet.
 
 ## Usage
 
@@ -11,8 +12,6 @@ lein run
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2015
 
 Distributed under the Eclipse Public License, the same as Clojure.
-
-
