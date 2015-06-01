@@ -1,1 +1,0 @@
-(ns tealet.models.user)
